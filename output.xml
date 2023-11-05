@@ -1,0 +1,30 @@
+ <PurchaseOrder>
+  <Address>
+    <Name>Tai Yee</Name>
+    <Street>8 Oak Avenue</Street>
+    <City>Old Town</City>
+    <State>PA</State>
+    <Zip>95819</Zip>
+    <Country>USA</Country>
+  </Address>
+  <DeliveryNotes>Please leave packages in shed by driveway.</DeliveryNotes>
+  <Items>
+    <Item>
+        <ProductName>Lawnmower</ProductName>
+        <Quantity>1</Quantity>
+        <USPrice>148.95</USPrice>
+        <Comment>Confirm this is electric</Comment>
+    </Item>
+    <Item>
+        <ProductName>Baby Monitor</ProductName>
+        <Quantity>2</Quantity>
+        <USPrice>39.98</USPrice>
+        <ShipDate>1999-05-21</ShipDate>
+    </Item>
+  </Items>
+  <Address>
+    <Name>Maxim Kromachev</Name>
+    <City>Saint-Peterburg</City>
+    <Country>Russia</Country>
+  </Address>
+ </PurchaseOrder>
